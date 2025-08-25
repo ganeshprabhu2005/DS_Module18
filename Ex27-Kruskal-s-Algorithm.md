@@ -17,8 +17,8 @@ To write a C program to implement Kruskal's Algorithm for finding minimum cost
 ```
 /*
 Program to implement Kruskal's Algorithm
-Developed by: 
-RegisterNumber:  
+Developed by: GANESH PRABHU J
+RegisterNumber: 212223220023
 */
 #include<stdio.h>
 #define MAX 30 typedefstruct edge
